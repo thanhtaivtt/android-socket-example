@@ -1,0 +1,2 @@
+# Andoird chat app use Socket.io
+- App demo: [**Download**](https://github.com/thanhtaivtt/android-socket-example/app.apk)
