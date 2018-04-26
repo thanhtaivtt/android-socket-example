@@ -66,6 +66,8 @@ public class MessageListView extends BaseAdapter {
             ListViewLayout.message.setTextColor(Color.WHITE);
         } else {
             ListViewLayout.message.setGravity(Gravity.LEFT);
+            ListViewLayout.message.setBackgroundResource(R.color.colorGreen);
+            ListViewLayout.message.setTextColor(Color.WHITE);
         }
         return view;
     }
